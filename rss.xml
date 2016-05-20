@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chasing daylight]]></title>
         <description><![CDATA[Chasing daylight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chasing-daylight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 00:29:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 00:30:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chasing-daylight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There & Back Again: A Cross-Country Epic]]></title>
+            <description><![CDATA[<article><h1>There & Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg"></article>]]></description>
+            <link>https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/</link>
+            <guid isPermaLink="false">b55e7365-d3bf-437e-84bc-0c81f1517ffa</guid>
+            <pubDate>Fri, 20 May 2016 00:29:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Super stylli: our pick of the finest (and most stylish) smart-pens.]]></title>
             <description><![CDATA[<article><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg"></article>]]></description>
