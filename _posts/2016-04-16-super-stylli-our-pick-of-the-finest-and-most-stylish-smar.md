@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T00:29:22.746Z'
+datePublished: '2016-05-20T00:29:26.896Z'
 sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-20T00:29:20.386Z'
+dateModified: '2016-05-20T00:29:24.832Z'
 title: 'Super stylli: our pick of the finest (and most stylish) smart-pens.'
 app_links: []
 publisher:
