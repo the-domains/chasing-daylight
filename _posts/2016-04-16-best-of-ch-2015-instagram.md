@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T00:29:23.194Z'
+datePublished: '2016-05-20T00:29:27.329Z'
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
@@ -17,7 +17,7 @@ keywords:
   - biennale
 related: []
 author: []
-dateModified: '2016-05-20T00:29:17.835Z'
+dateModified: '2016-05-20T00:29:21.708Z'
 title: 'Best of CH 2015: Instagram'
 app_links: []
 publisher:
