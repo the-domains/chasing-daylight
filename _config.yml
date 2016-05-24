@@ -1,14 +1,14 @@
-layout_spectrum: 0.5577375772409141
-typography_spectrum: 0.9879251690581441
+layout_spectrum: 0.2612209946382791
+typography_spectrum: 0.7996000365819782
 color:
-  brandStrength: 0.6304479632526636
-  lightness: 0.05697661638259888
-  saturation: 0.4564677744638175
-  rhythmicContrast: 0.1098215573001653
+  brandStrength: 0.6987593243829906
+  lightness: 0.6054499873425812
+  saturation: 0.2435658120084554
+  rhythmicContrast: 0.5676314991433173
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: Chasing daylight
