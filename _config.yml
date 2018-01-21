@@ -1,14 +1,39 @@
-layout_spectrum: 0.2612209946382791
-typography_spectrum: 0.7996000365819782
+name: Chasing Daylight
+analytics: {}
+purpose: []
+github: true
+description: 'Cycling in North Negros, Philippines'
+author:
+  name: Raoul Benedicto
+  email: raoulbenedicto@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.7577885430545943
 color:
-  brandStrength: 0.6987593243829906
-  lightness: 0.6054499873425812
-  saturation: 0.2435658120084554
-  rhythmicContrast: 0.5676314991433173
+  lightness: 0.24823022057486716
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
-name: Chasing daylight
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  saturation: 0.5594492380428913
+  brandStrength: 0.9543679206945592
+  rhythmicContrast: 0.22641616380146456
+content_rating:
+  adult: false
+typography_spectrum: 0.16970667235018447
+opengraph: {}
+title: Chasing Daylight
+url: 'https://chasingdaylight.bike'
